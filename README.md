@@ -1,1 +1,1 @@
-# html-css-workout
+# html-css-javascript workout
