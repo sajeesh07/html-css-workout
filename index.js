@@ -14,8 +14,16 @@ let array = [
 // array.map((i) => console.log(i))
 // array.forEach((i) => console.log(i))
 
+//normal function
+
 function testFn(value) {
   console.log(value)
 }
 
 testFn('sajeesh')
+
+//arrow function
+
+const arrowFunction = (value) => {
+  console.log(value)
+}
